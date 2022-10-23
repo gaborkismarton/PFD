@@ -56,7 +56,7 @@ plt.show()
 
 
     
-![png](PFD_files/PFD_6_0.png)
+![png](PFD_6_0.png)
     
 
 
@@ -83,7 +83,7 @@ plt.show()
 
 
     
-![png](PFD_files/PFD_7_0.png)
+![png](PFD_7_0.png)
     
 
 
