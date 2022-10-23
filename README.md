@@ -56,7 +56,7 @@ plt.show()
 
 
     
-![png](jeff.jpg)
+![jpg](jeff.jpg)
     
 
 
@@ -83,7 +83,7 @@ plt.show()
 
 
     
-![png](zsofi.jpg)
+![jpg](zsofi.jpg)
     
 
 
